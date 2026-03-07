@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Newsboat Feed Subscriptions</title>
+  </head>
+  <body>
+    <outline text="DummyEntries">
+    </outline>
+    <outline text="AI/ML">
+      <outline text="arXiv: Artificial Intelligence" type="rss" xmlUrl="http://export.arxiv.org/rss/cs.AI"/>
+      <outline text="Nature Machine Intelligence" type="rss" xmlUrl="https://www.nature.com/natmachintell.rss"/>
+      <outline text="Nature Computational Science" type="rss" xmlUrl="https://www.nature.com/natcomputsci.rss"/>
+    </outline> 
+    <outline text="Genetics Genomics and GWAS">
+      <outline text="OUP Latest Genes Genomics Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6321/4079.xml"/>
+      <outline text="OUP Adv Genes Genomics Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6321/advanceAccess_4079.xml"/>
+      <outline text="OUP Latest Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6327/4082.xml"/>
+      <outline text="OUP Adv Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6327/advanceAccess_4082.xml"/>
+      <outline text="OUP Latest Human Mol Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5124/3030.xml"/>
+      <outline text="OUP Adv Human Mol Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5124/advanceAccess_3030.xml"/>
+      <outline text="OUP Latest Briefings in Functional Genomics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5144/3006.xml"/>
+      <outline text="OUP Adv Functional Genomics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5144/advanceAccess_3006.xml"/>
+      <outline text="BMC Genomics and Informatics" type="rss" xmlUrl="https://genomicsinform.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Genome Biology" type="rss" xmlUrl="https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="OUP Latest Genome Biology Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5281/3147.xml"/>
+      <outline text="OUP Adv Genome Biology Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml"/>
+      <outline text="BMC Med Genomics" type="rss" xmlUrl="https://bmcmedgenomics.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Genomics" type="rss" xmlUrl="https://bmcgenomics.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="eLife Genetics and Genomics" type="rss" xmlUrl="https://elifesciences.org/rss/subject/genetics-genomics.xml"/>
+      <outline text="Trends Genetics" type="rss" xmlUrl="https://www.cell.com/trends/genetics/inpress.rss"/>
+      <outline text="Trends Genetics" type="rss" xmlUrl="https://www.cell.com/trends/genetics/current.rss"/>
+      <outline text="Human Genetics Genomics Advances" type="rss" xmlUrl="https://www.cell.com/hgg-advances/inpress.rss"/>
+      <outline text="Human Genetics Genomics Advances" type="rss" xmlUrl="https://www.cell.com/hgg-advances/current.rss"/>
+      <outline text="American Society of Human Genetics" type="rss" xmlUrl="https://www.cell.com/ajhg/inpress.rss"/>
+      <outline text="American Society of Human Genetics" type="rss" xmlUrl="https://www.cell.com/ajhg/current.rss"/>
+      <outline text="Cell Genomics" type="rss" xmlUrl="https://www.cell.com/cell-genomics/inpress.rss"/>
+      <outline text="Cell Genomics" type="rss" xmlUrl="https://www.cell.com/cell-genomics/current.rss"/>
+      <outline text="Nature Genetics" type="rss" xmlUrl="https://www.nature.com/subjects/genetics.rss"/> 
+      <outline text="PLOS Genetics" type="rss" xmlUrl="https://journals.plos.org/plosgenetics/feed/atom"/> 
+      <outline text="bioRxiv Genomics and Genetics" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=genomics+genetics"/>
+      <outline type="rss" text="Annual Review of Genetics" htmlUrl="https://www.annualreviews.org/content/journals/genet" xmlUrl="https://www.annualreviews.org/rss/content/journals/genet/latestarticles?fmt=rss"/>
+      <outline type="rss" text="Annual Review of Genomics and Human Genetics" htmlUrl="https://www.annualreviews.org/content/journals/genom" xmlUrl="https://www.annualreviews.org/rss/content/journals/genom/latestarticles?fmt=rss"/>
+      <outline text="PNAS Genetics" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=genetics"/>
+    </outline>  
+    <outline text="Omics No Genomics">
+      <outline text="OUP Latest NAR Genomics Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6220/4033.xml"/>
+      <outline text="OUP Open NAR Genomics Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6220/OpenAccess.xml"/>
+      <outline text="OUP Latest Genomics Proteomics Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6564/4166.xml"/>
+      <outline text="OUP Adv Genomics Proteomics Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6564/advanceAccess_4166.xml"/>
+      <outline text="OUP Latest Bioinformatics Adv" type="rss" xmlUrl="https://academic.oup.com/rss/site_6382/4105.xml"/>
+      <outline text="OUP Adv Bioinformatics Adv" type="rss" xmlUrl="https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml"/>
+      <outline text="OUP Latest Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5139/3001.xml"/>
+      <outline text="OUP Adv Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"/>
+      <outline text="OUP Latest Briefings Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5143/3005.xml"/>
+      <outline text="OUP Adv Briefings Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5143/advanceAccess_3005.xml"/>
+      <outline text="BMC Proteome" type="rss" xmlUrl="https://proteomesci.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Clinical Proteomics" type="rss" xmlUrl="https://clinicalproteomicsjournal.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Algos for MolBio" type="rss" xmlUrl="https://almob.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC BioData Mining" type="rss" xmlUrl="https://biodatamining.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Bioinformatics" type="rss" xmlUrl="https://bmcbioinformatics.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="eLife Comp and Sys Bio" type="rss" xmlUrl="https://elifesciences.org/rss/subject/computational-systems-biology.xml"/> 
+      <outline type="rss" text="Annual Review of Biomedical Data Science" htmlUrl="https://www.annualreviews.org/content/journals/biodatasci" xmlUrl="https://www.annualreviews.org/rss/content/journals/biodatasci/latestarticles?fmt=rss"/>
+      <outline text="Nature: CompBio and Bioinfo" type="rss" xmlUrl="http://nature.com/subjects/computational-biology-and-bioinformatics.rss"/>
+      <outline text="Nature Methods" type="rss" xmlUrl="https://www.nature.com/nmeth.rss"/>
+      <outline text="Cell Reports Methods" type="rss" xmlUrl="https://www.cell.com/cell-reports-methods/inpress.rss"/>
+      <outline text="Cell Reports Methods" type="rss" xmlUrl="https://www.cell.com/cell-reports-methods/current.rss"/>
+      <outline text="bioRxiv Bioinfo" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics"/>
+      <outline text="PLOS Comp Biology" type="rss" xmlUrl="https://journals.plos.org/ploscompbiol/feed/atom"/>
+      <outline text="PNAS Comp Bio" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCodeOr=biophys-bio&amp;tagCodeOr=biophys-phys"/>
+      <outline text="Cell STAR Protocols" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/26661667"/>
+      <outline text="protocols io" type="rss" xmlUrl="https://www.protocols.io/protocols.rss"/>
+    </outline>
+    <outline text="Immunology">
+      <outline text="OUP Latest Ab Therapeutics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6174/4010.xml"/>
+      <outline text="OUP Adv Ab Therapeutics" type="rss" xmlUrl="https://academic.oup.com/rss/site_6174/advanceAccess_4010.xml"/>
+      <outline text="OUP Latest Discovery Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6466/4123.xml"/>
+      <outline text="OUP Adv Discovery Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6466/advanceAccess_4123.xml"/>
+      <outline text="OUP Latest Clinical and Experimental Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6450/4115.xml"/>
+      <outline text="OUP Adv Clinical and Experimental Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6450/advanceAccess_4115.xml"/>
+      <outline text="OUP Latest Oxford Open Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6299/4069.xml"/>
+      <outline text="OUP Adv Oxford Open Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6299/advanceAccess_4069.xml"/>
+      <outline text="OUP Latest International Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5298/3164.xml"/>
+      <outline text="OUP Adv International Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5298/advanceAccess_3164.xml"/>
+      <outline text="OUP Latest Rheumatology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5347/3213.xml"/>
+      <outline text="OUP Adv Rheumatology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5347/advanceAccess_3213.xml"/>
+      <outline text="OUP Latest Immunotherapy Advances" type="rss" xmlUrl="https://academic.oup.com/rss/site_6305/4071.xml"/>
+      <outline text="OUP Adv Immunotherapy Advances" type="rss" xmlUrl="https://academic.oup.com/rss/site_6305/advanceAccess_4071.xml"/>
+      <outline text="BMC Rheumatology" type="rss" xmlUrl="https://bmcrheumatol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Inflammation" type="rss" xmlUrl="https://journal-inflammation.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Immunity and Ageing" type="rss" xmlUrl="https://immunityageing.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Clinical Immunology" type="rss" xmlUrl="https://aacijournal.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Immunology" type="rss" xmlUrl="https://bmcimmunol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="eLife Immunology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/immunology-inflammation.xml"/>
+      <outline text="Trends Immunology" type="rss" xmlUrl="https://www.cell.com/trends/immunology/inpress.rss"/>
+      <outline text="Trends Immunology" type="rss" xmlUrl="https://www.cell.com/trends/immunology/current.rss"/>
+      <outline text="Cell Immunity" type="rss" xmlUrl="https://www.cell.com/immunity/inpress.rss"/>
+      <outline text="Cell Immunity" type="rss" xmlUrl="https://www.cell.com/immunity/current.rss"/>
+      <outline text="Science Immunology" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciimmunol"/>
+      <outline text="bioRxiv Immunology" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=immunology"/>
+      <outline text="Nature Immunology" type="rss" xmlUrl="https://www.nature.com/subjects/immunology.rss"/>
+      <outline text="Nature Reviews Immunology" type="rss" xmlUrl="https://www.nature.com/nri.rss"/>
+      <outline text="Frontiers in Immunology" type="rss" xmlUrl="https://www.frontiersin.org/journals/immunology/rss"/>
+      <outline text="Journal of Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6657/4194.xml"/>
+      <outline text="Journal of Immunology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6657/advanceAccess_4194.xml"/>
+      <outline text="Annual Review of Immunology" type="rss" xmlUrl="http://annualreviews.org/rss/content/journals/immunol/latestarticles?fmt=rss"/> 
+      <outline text="Nature Rheumatology" type="rss" xmlUrl="https://www.nature.com/subjects/rheumatology.rss"/>
+      <outline text="PNAS Immunology" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=immun"/>
+    </outline>
+    <outline text="AAV and Cell Therapy">
+      <outline text="BMC Stem Cell" type="rss" xmlUrl="https://stemcellres.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="Gene Therapy" type="rss" xmlUrl="https://www.nature.com/gt.rss"/>
+      <outline text="Nature Stem Cell" type="rss" xmlUrl="https://www.nature.com/subjects/stem-cells.rss"/>
+      <outline type="rss" text="Annual Review of Virology" htmlUrl="https://www.annualreviews.org/content/journals/virology" xmlUrl="https://www.annualreviews.org/rss/content/journals/virology/latestarticles?fmt=rss"/>
+    </outline>
+    <outline text="Disease Biology">
+      <outline text="Lancet" type="rss" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml"/>
+      <outline text="Lancet Online" type="rss" xmlUrl="https://www.thelancet.com/rssfeed/lancet_online.xml"/>
+      <outline text="BMC Translational Medicine" type="rss" xmlUrl="https://translational-medicine.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Medicine" type="rss" xmlUrl="https://bmcmedicine.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="NEJM Current" type="rss" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss"/>
+      <outline text="JAMA Current" type="rss" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml"/>
+      <outline text="JAMA Clinical Review" type="rss" xmlUrl="https://jamaclinicalreviews.libsyn.com/rss"/>
+      <outline text="JAMA Med News" type="rss" xmlUrl="https://jamamedicalnews.libsyn.com/rss"/>
+      <outline text="JAMA Online" type="rss" xmlUrl="https://jamanetwork.com/rss/site_3/onlineFirst_67.xml"/>
+      <outline text="eLife Medicine" type="rss" xmlUrl="https://elifesciences.org/rss/subject/medicine.xml"/>
+      <outline text="Nature Reviews Disease Primers" type="rss" xmlUrl="https://www.nature.com/nrdp.rss"/>
+      <outline text="Cell Reports Medicine" type="rss" xmlUrl="https://www.cell.com/cell-reports-medicine/inpress.rss"/>
+      <outline text="Cell Reports Medicine" type="rss" xmlUrl="https://www.cell.com/cell-reports-medicine/current.rss"/>
+      <outline type="rss" text="Annual Review of Medicine" htmlUrl="https://www.annualreviews.org/content/journals/med" xmlUrl="https://www.annualreviews.org/rss/content/journals/med/latestarticles?fmt=rss"/> 
+      <outline text="PLOS Medicine" type="rss" xmlUrl="https://journals.plos.org/plosmedicine/feed/atom"/>
+      <outline text="PNAS Medical Sci" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=med-sci"/> 
+    </outline>
+    <outline text="Therapeutics Research">
+      <outline text="Nature ASO" type="rss" xmlUrl="https://www.nature.com/subjects/antisense-oligonucleotide-therapy.rss"/>
+      <outline text="OUP Latest NAR Mol Med" type="rss" xmlUrl="https://academic.oup.com/rss/site_6576/4170.xml"/>
+      <outline text="OUP Adv NAR Mol Med" type="rss" xmlUrl="https://academic.oup.com/rss/site_6576/advanceAccess_4170.xml"/>
+      <outline text="BMC Mol Med" type="rss" xmlUrl="https://molmed.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Pharma Tox" type="rss" xmlUrl="https://bmcpharmacoltoxicol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="EMBO Mol Med" type="rss" xmlUrl="https://www.embopress.org/feed/17574684/most-recent"/>
+      <outline text="eLife Stem Cells" type="rss" xmlUrl="https://elifesciences.org/rss/subject/stem-cells-regenerative-medicine.xml"/>
+      <outline text="Trends Pharmacological Sciences" type="rss" xmlUrl="https://www.cell.com/trends/pharmacological-sciences/inpress.rss"/>
+      <outline text="Trends Pharmacological Sciences" type="rss" xmlUrl="https://www.cell.com/trends/pharmacological-sciences/current.rss"/>
+      <outline text="Trends Mol Medicine" type="rss" xmlUrl="https://www.cell.com/trends/molecular-medicine/inpress.rss"/>
+      <outline text="Trends Mol Medicine" type="rss" xmlUrl="https://www.cell.com/trends/molecular-medicine/current.rss"/>
+      <outline text="Mol Therapy NucAcids" type="rss" xmlUrl="https://www.cell.com/molecular-therapy-family/nucleic-acids/inpress.rss"/>
+      <outline text="Mol Therapy NucAcids" type="rss" xmlUrl="https://www.cell.com/molecular-therapy-family/nucleic-acids/current.rss"/>
+      <outline text="Mol Therapy" type="rss" xmlUrl="https://www.cell.com/molecular-therapy-family/molecular-therapy/inpress.rss"/>
+      <outline text="Mol Therapy" type="rss" xmlUrl="https://www.cell.com/molecular-therapy-family/molecular-therapy/current.rss"/> 
+      <outline text="Science Translational Medicine" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=stm"/>
+      <outline text="Nature Reviews Drug Discovery" type="rss" xmlUrl="https://www.nature.com/nrd.rss"/>
+      <outline text="Drug Discovery Today" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/13596446"/>
+      <outline text="Pharmacology and Therapeutics" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/01637258"/> 
+      <outline text="Derek Lowe's Pipeline Blog" type="rss" xmlUrl="https://www.science.org/blogs/pipeline/feed"/>
+      <outline text="PNAS Pharma" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=pharm"/>
+    </outline>
+    <outline text="Evolution">
+      <outline type="rss" text="Annual Review of Ecology, Evolution, and Systematics" htmlUrl="https://www.annualreviews.org/content/journals/ecolsys" xmlUrl="https://www.annualreviews.org/rss/content/journals/ecolsys/latestarticles?fmt=rss"/>
+      <outline text="OUP Latest Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_6515/4148.xml"/>
+      <outline text="OUP Adv Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_6515/advanceAccess_4148.xml"/>
+      <outline text="OUP Latest Evolutionary Biology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6606/4185.xml"/>
+      <outline text="OUP Adv Evolutionary Biology" type="rss" xmlUrl="https://academic.oup.com/rss/site_6606/advanceAccess_4185.xml"/>
+      <outline text="OUP Latest Mol Bio and Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5325/3191.xml"/>
+      <outline text="OUP Adv Mol Bio and Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml"/>
+      <outline text="eLife Evolutionary Biology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/evolutionary-biology.xml"/>
+      <outline text="Trends Ecology Evolution" type="rss" xmlUrl="https://www.cell.com/trends/ecology-evolution/inpress.rss"/>
+      <outline text="Trends Ecology Evolution" type="rss" xmlUrl="https://www.cell.com/trends/ecology-evolution/current.rss"/>
+      <outline text="PNAS Evolution" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=evolution"/>
+      <outline text="PNAS Pop Bio" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=pop-bio"/>
+      <outline text="Nature Evolution" type="rss" xmlUrl="https://www.nature.com/natecolevol.rss"/>
+      <outline text="Evolutionary Applications" type="rss" xmlUrl="https://onlinelibrary.wiley.com/feed/2041210x/most-recent"/>
+      <outline text="bioRxiv Evolution" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=evolutionary+biology"/>
+    </outline>
+    <outline text="Mol and Cell Biology">
+      <outline text="JBC" type="rss" xmlUrl="http://www.jbc.org/current.rss"/>
+      <outline text="OUP Latest Biochem" type="rss" xmlUrl="https://academic.oup.com/rss/site_5303/3169.xml"/>
+      <outline text="OUP Adv Biochem" type="rss" xmlUrl="https://academic.oup.com/rss/site_5303/advanceAccess_3169.xml"/>
+      <outline text="OUP Latest Mol Cell Biology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5313/3179.xml"/>
+      <outline text="OUP Adv Mol Cell Biology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5313/advanceAccess_3179.xml"/>
+      <outline text="OUP Latest NAR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5127/3091.xml"/>
+      <outline text="OUP Adv NAR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"/>
+      <outline text="BMC Mol and Cell Biology" type="rss" xmlUrl="https://bmcmolcellbiol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Ecology and Evolution" type="rss" xmlUrl="https://bmcecolevol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="EMBO Reports" type="rss" xmlUrl="https://www.embopress.org/feed/14693178/most-recent"/>
+      <outline text="EMBO Journal" type="rss" xmlUrl="https://www.embopress.org/feed/14602075/most-recent"/>
+      <outline text="eLife Chromosome and Gene Expression" type="rss" xmlUrl="https://elifesciences.org/rss/subject/chromosomes-gene-expression.xml"/>
+      <outline text="eLife Biochem" type="rss" xmlUrl="https://elifesciences.org/rss/subject/biochemistry-chemical-biology.xml"/>
+      <outline text="eLife Cell Bio" type="rss" xmlUrl="https://elifesciences.org/rss/subject/cell-biology.xml"/>
+      <outline text="Trends Cell Bio" type="rss" xmlUrl="https://www.cell.com/trends/cell-biology/inpress.rss"/>
+      <outline text="Trends Cell Bio" type="rss" xmlUrl="https://www.cell.com/trends/cell-biology/current.rss"/>
+      <outline text="Trends Biochemical Sciences" type="rss" xmlUrl="https://www.cell.com/trends/biochemical-sciences/inpress.rss"/>
+      <outline text="Trends Biochemical Sciences" type="rss" xmlUrl="https://www.cell.com/trends/biochemical-sciences/current.rss"/>
+      <outline text="Cell Mol Cell" type="rss" xmlUrl="https://www.cell.com/molecular-cell/inpress.rss"/>
+      <outline text="Cell Mol Cell" type="rss" xmlUrl="https://www.cell.com/molecular-cell/current.rss"/>
+      <outline text="Cell" type="rss" xmlUrl="https://www.cell.com/cell/inpress.rss"/>
+      <outline text="Cell" type="rss" xmlUrl="https://www.cell.com/cell/current.rss"/>
+      <outline text="PNAS Cell Bio" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=cell-bio"/>
+      <outline text="Nature Cell Bio" type="rss" xmlUrl="http://nature.com/subjects/cell-biology.rss"/> 
+      <outline text="Nature Mol Bio" type="rss" xmlUrl="http://nature.com/subjects/molecular-biology.rss"/>
+      <outline text="bioRxiv Cell and Mol Bio" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=cell_biology+molecular_biology"/>
+      <outline type="rss" text="Annual Review of Cell and Developmental Biology" htmlUrl="https://www.annualreviews.org/content/journals/cellbio" xmlUrl="https://www.annualreviews.org/rss/content/journals/cellbio/latestarticles?fmt=rss"/>
+    </outline>
+    <outline text="General Biology">
+      <outline text="Nature Scientific Reports Health Sciences" type="rss" xmlUrl="https://www.nature.com/subjects/health-sciences/srep.rss"/>
+      <outline text="Nature Scientific Reports Biological Sciences" type="rss" xmlUrl="https://www.nature.com/subjects/biological-sciences/srep.rss"/> 
+      <outline text="OUP Latest China NSR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5332/3198.xml"/>
+      <outline text="OUP Adv China NSR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5332/advanceAccess_3198.xml"/>
+      <outline text="OUP Latest Glycobiology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5163/3026.xml"/>
+      <outline text="OUP Adv Glycobiology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5163/advanceAccess_3026.xml"/>
+      <outline text="BMC Lipids" type="rss" xmlUrl="https://lipidworld.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Biology" type="rss" xmlUrl="https://bmcbiol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="Cell Reports" type="rss" xmlUrl="https://www.cell.com/cell-reports/inpress.rss"/>
+      <outline text="Cell Reports" type="rss" xmlUrl="https://www.cell.com/cell-reports/current.rss"/>
+      <outline text="PLOS Biology" type="rss" xmlUrl="https://journals.plos.org/plosbiology/feed/atom"/> 
+      <outline text="Nature Biotechnology" type="rss" xmlUrl="https://www.nature.com/nbt.rss"/>
+      <outline text="Nature Biological Methods" type="rss" xmlUrl="http://nature.com/subjects/biological-techniques.rss"/>
+      <outline text="Science Mag" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science"/>
+      <outline text="Science Adv" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv"/>
+      <outline text="Nature News" type="rss" xmlUrl="https://www.nature.com/nature.rss"/>
+      <outline text="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed"/>
+    </outline>
+    <outline text="Substack Blogs and People">  
+      <outline text="Kinn AI Bio" type="rss" xmlUrl="https://newsletter.kiin.bio/feed"/>
+      <outline text="Rachel FastAI Biology" type="rss" xmlUrl="https://rachel.fast.ai/index.xml"/>
+      <outline text="TechMeetsBio" type="rss" xmlUrl="https://www.techlifesci.com/feed"/>
+      <outline text="Asterisk Mag" type="rss" xmlUrl="https://asteriskmag.substack.com/feed"/>
+      <outline text="Asimov" type="rss" xmlUrl="https://www.asimov.press/feed"/>
+      <outline text="Eric Topol" type="rss" xmlUrl="https://erictopol.substack.com/feed"/>
+      <outline text="Veera" type="rss" xmlUrl="https://www.gwasstories.com/feed"/>
+      <outline text="Shweta Ramdas PopGenetics GWAS" type="rss" xmlUrl="https://shwetaramdas.github.io/feed.xml"/>
+      <outline text="Sarah Constantin" type="rss" xmlUrl="https://sarahconstantin.substack.com/feed"/>
+      <outline text="Owl Posting" type="rss" xmlUrl="https://www.owlposting.com/feed"/>
+      <outline text="Decoding Bio" type="rss" xmlUrl="https://decodingbio.substack.com/feed"/>
+      <outline text="Century of Bio" type="rss" xmlUrl="https://centuryofbio.com/feed"/>
+      <outline text="Oscillator Blog" type="rss" xmlUrl="https://www.oscillator.blog/feed"/>
+      <outline text="Asimov New Biology Blog" type="rss" xmlUrl="https://blog.asimov.com/feed"/>
+      <outline text="Valentine Svensson Substack" type="rss" xmlUrl="https://www.nxn.se/feed"/>
+      <outline text="ASeq Substack" type="rss" xmlUrl="https://aseq.substack.com/feed"/>
+      <outline text="Distill.pub" type="rss" xmlUrl="https://distill.pub/rss.xml"/>
+      <outline text="The Gradient" type="rss" xmlUrl="https://thegradient.pub/rss/"/>
+      <outline text="Science Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e763ee7a-311f-4004-8c05-ad8a0018d51b/68fe80a5-856c-4341-9f13-ada1016db982/dddf1674-4d7d-4aaf-a7f9-ada1016db98c/podcast.rss"/>
+      <outline text="Quanta Magazine: Biology" type="rss" xmlUrl="https://www.quantamagazine.org/biology/feed/"/>
+      <outline text="Machine Learning Mastery" type="rss" xmlUrl="https://machinelearningmastery.com/blog/feed/"/>
+      <outline text="Bluesky Fabian" type="rss" xmlUrl="https://bsky.app/profile/did:plc:lz3bw4koq7xzfrti3w6pnnhr/rss"/>
+      <outline text="Bluesky Patcher" type="rss" xmlUrl="https://bsky.app/profile/did:plc:ncwduinvzvprp74o4kky3hpz/rss"/>  
+      <outline text="Bluesky Topol" type="rss" xmlUrl="https://bsky.app/profile/did:plc:6vwezbhj7wwowu4sbur5npjk/rss"/>
+    </outline>
+  </body>
+</opml>
+
