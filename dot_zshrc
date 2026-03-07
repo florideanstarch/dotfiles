@@ -1,6 +1,6 @@
 # Reminders (have to be kept at the top to prevent OMZ/p10k issues)
 echo -e "\033[31m🍅 Pomodoro reminder!\033[0m Example usage: work 10m or rest 500s."
-echo -e "\033[36m🔧 Chezmoi Reminder!\033[0m Use 'chezmoi edit' to modify config files."
+echo -e "\033[36m🔧 Chezmoi reminder!\033[0m Use 'chezmoi edit' to modify config files."
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
