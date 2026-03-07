@@ -1,3 +1,7 @@
+# Reminders (have to kept at the top to prevent OMZ/p10k issues)
+echo -e "\033[31m🍅 Pomodoro reminder!\033[0m Usage: work 10m or rest 500s"
+echo -e "\033[36m🔧 Reminder:\033[0m use 'chezmoi edit' to modify config files"
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -146,3 +150,4 @@ export AEROSPACE_CONFIG=~/.config/aerospace/aerospace.toml
 
 # Add alias cat to bat
 alias batcat='bat'
+
