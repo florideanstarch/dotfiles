@@ -22,7 +22,7 @@ In order to use use lue to read articles:
 - `npm install -g readability-cli` and have it in the path.
 - Refer to zepo for installation, use venv.
 - `cd` into the cloned repo for lue.
-- `source activate .venv`
+- `source .venv/bin/activate`
 - `readable <an article link> -p text-content > temp.txt && lue temp.txt --tts kokoro`
 
 ### Some useful one-liners:

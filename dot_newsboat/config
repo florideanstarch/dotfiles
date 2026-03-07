@@ -9,14 +9,16 @@ max-items 500
 refresh-on-startup yes
 
 # Colors and formatting
-color background         default   default
-color listnormal         default   default
-color listnormal_unread  default   default
-color listfocus          black     yellow
-color listfocus_unread   black     yellow
-color info               default   black
-color article            default   default
+# color background         default   default
+# color listnormal         default   default
+# color listnormal_unread  default   default
+# color listfocus          black     yellow
+# color listfocus_unread   black     yellow
+# color info               default   black
+# color article            default   default
 
 # Browser
 browser "open -g -a 'Google Chrome' %u"
 
+# Catppuccin dark
+include ~/.newsboat/dark
