@@ -15,4 +15,9 @@ In order to use use lue to read articles:
 
 ### Some useful one-liners
 - Get unmanaged files in brew bin: 
-```find /opt/homebrew/bin -type f -maxdepth 1 | while read f; do brew list --formula | grep -q "$(basename $f)" || echo "unmanaged: $f" done```
+
+```
+find /opt/homebrew/bin -type f -maxdepth 1 | while read f; do 
+brew list --formula | grep -q "$(basename $f)" || echo "unmanaged: $f" 
+done
+```
