@@ -148,6 +148,6 @@ export PATH=$HOME/.npm-global/bin:$PATH
 export PATH="$HOME/.local/bin:$PATH"
 export AEROSPACE_CONFIG=~/.config/aerospace/aerospace.toml
 
-# Add alias cat to bat
+# Add alias cat to bat and set theme for bat
 alias batcat='bat'
-
+export BAT_THEME="Catppuccin Mocha"
