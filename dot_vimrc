@@ -114,6 +114,5 @@ map <leader>l :set list!<CR> " Toggle tabs and EOL
 
 
 " Color scheme (terminal)
-" Color scheme (terminal)
 set termguicolors
 colorscheme catppuccin_mocha
