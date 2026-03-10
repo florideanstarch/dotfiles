@@ -1,3 +1,18 @@
+# Pomodoro Timer (has to be kept at the top to prevent OMZ/p10k issues)
+work() {
+  # usage: work 10m, work 60s etc. Default is 20m
+  timer "${1:-20m}" && terminal-notifier -message 'Pomodoro'\
+        -title 'Work Timer is up! Take a Break 😊'\
+        -sound Crystal
+}
+
+rest() {
+  # usage: rest 10m, rest 60s etc. Default is 5m
+  timer "${1:-5m}" && terminal-notifier -message 'Pomodoro'\
+        -title 'Break is over! Get back to work 😬'\
+        -sound Crystal
+}
+
 # Reminders (have to be kept at the top to prevent OMZ/p10k issues)
 echo -e "\033[31m🍅 Pomodoro reminder!\033[0m Example usage: work 10m or rest 500s."
 echo -e "\033[36m🔧 Chezmoi reminder!\033[0m Use 'chezmoi edit' to modify config files."
@@ -114,21 +129,6 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Pomodoro Timer
-work() {
-  # usage: work 10m, work 60s etc. Default is 20m
-  timer "${1:-20m}" && terminal-notifier -message 'Pomodoro'\
-        -title 'Work Timer is up! Take a Break 😊'\
-        -sound Crystal
-}
-
-rest() {
-  # usage: rest 10m, rest 60s etc. Default is 5m
-  timer "${1:-5m}" && terminal-notifier -message 'Pomodoro'\
-        -title 'Break is over! Get back to work 😬'\
-        -sound Crystal
-}
-
 # Added by Antigravity
 export PATH="$HOME/.antigravity/antigravity/bin:$PATH"
 
@@ -144,9 +144,8 @@ export PATH="$HOME/.gem/ruby/3.4.0/bin:$PATH"
 # Added for NPM packages to showup in path
 export PATH=$HOME/.npm-global/bin:$PATH
 
-# Aerospace addition to path and adding its config location
-export PATH="$HOME/.local/bin:$PATH"
-export AEROSPACE_CONFIG=~/.config/aerospace/aerospace.toml
+# Aerospace moved to /opt/homebrew/bin and adding config path var
+export XDG_CONFIG_HOME="$HOME/.config/"
 
 # Add alias cat to bat and set theme for bat
 alias batcat='bat'

@@ -1,3 +1,5 @@
 theme = catppuccin-mocha.conf
 font-size = 16
 macos-titlebar-style = hidden
+shell-integration-features = ssh-terminfo
+shell-integration-features = ssh-env

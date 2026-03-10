@@ -1,69 +1,28 @@
-# 🪄 SketchyBar
+### SketchyBar
 
-<div align="center">
+This sketchybar setup is insipred by Praveen Gongada's
+[setup](https://github.com/PraveenGongada/dotfiles/tree/main/sketchybar)
 
-<br/>
-<a href="https://github.com/FelixKratz/SketchyBar"><img src="https://img.shields.io/badge/SketchyBar-macOS-C13584?style=for-the-badge&logoColor=white" alt="macOS Status Bar"/></a>
-
-_A customizable replacement for the macOS status bar_
-
-</div>
-
-## 📸 Preview
-
-![Tmux](../docs/images/sketchybar.png)
-
-## 🚀 Installation
-
-**Install SketchyBar**
+##### Installation
 
 ```bash
 brew install felixkratz/formulae/sketchybar
-```
-
-**Install jq**
-
-```bash
 brew install jq
-```
-
-## 🔤 Font Setup
-
-**Install SF Pro Font**
-
-```bash
 brew install font-sf-pro
-```
-
-**Install SF Symbols**
-
-```bash
 brew install --cask sf-symbols
-```
-
-**Install SketchyBar App Font**
-
-```bash
 curl -L https://github.com/kvndrsslr/sketchybar-app-font/releases/download/v2.0.40/sketchybar-app-font.ttf -o $HOME/Library/Fonts/sketchybar-app-font.ttf
-```
-
-**Add icon_map.sh file**
-
-```bash
 curl -L https://github.com/kvndrsslr/sketchybar-app-font/releases/download/v2.0.40/icon_map.sh -o $HOME/.config/sketchybar/icon_map.sh
 ```
 
-## ⚙️ Configuration
+##### Mitigation of some common problems that I faced
 
-The configuration files are organized as follows:
-
-- `sketchybarrc` - Main configuration file
-- `colors.sh` - Color definitions
-- `items/` - Individual component configurations
-- `plugins/` - Interactive plugin scripts
-
-## 🔗 Useful Links
-
-- [Official SketchyBar Repository](https://github.com/FelixKratz/SketchyBar)
-- [SketchyBar Wiki](https://github.com/FelixKratz/SketchyBar/wiki)
-- [SketchyBar Examples](https://github.com/FelixKratz/SketchyBar/discussions/47)
+1) Praveen using version 1 of the config (needs to be declared coreclty in the sketchybarrc).
+2) All the script must be user executable.
+3) For `after-start-up` command in the `aerospace.toml` to start `borders` and `sketchybar`, prefer keeping all the three bin files in the same bin folder. For me this was
+in `/opt/homebrew/bin` (on one machine that have). On the other even though
+files were on different paths, `sketchybar` worked with `brew services star`
+after I loaded `aerospace`.
+4) Also in the aerospace.toml, wherever `sketchybar` or `borders` are
+referenced, the full path must be used. The newer version of the config
+supports `[exec.env-vars]` to set the path. Here I am just using the dirty way
+of supplying the full path wherever needed.
