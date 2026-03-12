@@ -1,5 +1,5 @@
-# Path to this config is to ~/.config/aerospace/aerospace.toml
-# using ${XDG_CONFIG_HOME} as /Users/ssbi/ in .zshrc
+# Path to this config has been set to ~/.config/aerospace/aerospace.toml
+# using ${XDG_CONFIG_HOME} = "$HOME/.config" in .zshrc
 
 # Config version for compatibility and deprecations
 # Fallback value (if you omit the key): config-version = 1
