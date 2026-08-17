@@ -19,13 +19,12 @@
       <outline text="OUP Latest Human Mol Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5124/3030.xml"/>
       <outline text="OUP Adv Human Mol Genetics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5124/advanceAccess_3030.xml"/>
       <outline text="OUP Latest Briefings in Functional Genomics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5144/3006.xml"/>
-      <outline text="OUP Adv Functional Genomics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5144/advanceAccess_3006.xml"/>
-      <outline text="BMC Genomics and Informatics" type="rss" xmlUrl="https://genomicsinform.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Genome Biology" type="rss" xmlUrl="https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Genomics and Informatics" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=44342&amp;channel-name=BMC+Genomics+and+Informatics"/>
+      <outline text="BMC Genome Biology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13059&amp;channel-name=Genome+Biology"/>
       <outline text="OUP Latest Genome Biology Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5281/3147.xml"/>
       <outline text="OUP Adv Genome Biology Evolution" type="rss" xmlUrl="https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml"/>
-      <outline text="BMC Med Genomics" type="rss" xmlUrl="https://bmcmedgenomics.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Genomics" type="rss" xmlUrl="https://bmcgenomics.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Med Genomics" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12920&amp;channel-name=BMC+Medical+Genomics"/>
+      <outline text="BMC Genomics" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12864&amp;channel-name=BMC+Genomics"/>
       <outline text="eLife Genetics and Genomics" type="rss" xmlUrl="https://elifesciences.org/rss/subject/genetics-genomics.xml"/>
       <outline text="Trends Genetics" type="rss" xmlUrl="https://www.cell.com/trends/genetics/inpress.rss"/>
       <outline text="Trends Genetics" type="rss" xmlUrl="https://www.cell.com/trends/genetics/current.rss"/>
@@ -53,11 +52,11 @@
       <outline text="OUP Adv Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"/>
       <outline text="OUP Latest Briefings Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5143/3005.xml"/>
       <outline text="OUP Adv Briefings Bioinformatics" type="rss" xmlUrl="https://academic.oup.com/rss/site_5143/advanceAccess_3005.xml"/>
-      <outline text="BMC Proteome" type="rss" xmlUrl="https://proteomesci.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Clinical Proteomics" type="rss" xmlUrl="https://clinicalproteomicsjournal.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Algos for MolBio" type="rss" xmlUrl="https://almob.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC BioData Mining" type="rss" xmlUrl="https://biodatamining.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Bioinformatics" type="rss" xmlUrl="https://bmcbioinformatics.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Proteome" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12953&amp;channel-name=Proteome+Science"/>
+      <outline text="BMC Clinical Proteomics" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12014&amp;channel-name=Clinical+Proteomics"/>
+      <outline text="BMC Algos for MolBio" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13015&amp;channel-name=Algorithms+for+Molecular+Biology"/>
+      <outline text="BMC BioData Mining" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13040&amp;channel-name=BioData+Mining"/>
+      <outline text="BMC Bioinformatics" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12859&amp;channel-name=BMC+Bioinformatics"/>
       <outline text="eLife Comp and Sys Bio" type="rss" xmlUrl="https://elifesciences.org/rss/subject/computational-systems-biology.xml"/> 
       <outline type="rss" text="Annual Review of Biomedical Data Science" htmlUrl="https://www.annualreviews.org/content/journals/biodatasci" xmlUrl="https://www.annualreviews.org/rss/content/journals/biodatasci/latestarticles?fmt=rss"/>
       <outline text="Nature: CompBio and Bioinfo" type="rss" xmlUrl="http://nature.com/subjects/computational-biology-and-bioinformatics.rss"/>
@@ -85,11 +84,11 @@
       <outline text="OUP Adv Rheumatology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5347/advanceAccess_3213.xml"/>
       <outline text="OUP Latest Immunotherapy Advances" type="rss" xmlUrl="https://academic.oup.com/rss/site_6305/4071.xml"/>
       <outline text="OUP Adv Immunotherapy Advances" type="rss" xmlUrl="https://academic.oup.com/rss/site_6305/advanceAccess_4071.xml"/>
-      <outline text="BMC Rheumatology" type="rss" xmlUrl="https://bmcrheumatol.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Inflammation" type="rss" xmlUrl="https://journal-inflammation.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Immunity and Ageing" type="rss" xmlUrl="https://immunityageing.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Clinical Immunology" type="rss" xmlUrl="https://aacijournal.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Immunology" type="rss" xmlUrl="https://bmcimmunol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Rheumatology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=41927&amp;channel-name=BMC+Rheumatology"/>
+      <outline text="BMC Inflammation" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12950&amp;channel-name=Journal+of+Inflammation"/>
+      <outline text="BMC Immunity and Ageing" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12979&amp;channel-name=Immunity+and+Ageing"/>
+      <outline text="BMC Clinical Immunology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13223&amp;channel-name=Allergy+Asthma+and+Clinical+Immunology"/>
+      <outline text="BMC Immunology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12865&amp;channel-name=BMC+Immunology"/>
       <outline text="eLife Immunology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/immunology-inflammation.xml"/>
       <outline text="Trends Immunology" type="rss" xmlUrl="https://www.cell.com/trends/immunology/inpress.rss"/>
       <outline text="Trends Immunology" type="rss" xmlUrl="https://www.cell.com/trends/immunology/current.rss"/>
@@ -107,7 +106,7 @@
       <outline text="PNAS Immunology" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=immun"/>
     </outline>
     <outline text="AAV and Cell Therapy">
-      <outline text="BMC Stem Cell" type="rss" xmlUrl="https://stemcellres.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Stem Cell" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13287&amp;channel-name=Stem+Cell+Research+and+Therapy"/>
       <outline text="Gene Therapy" type="rss" xmlUrl="https://www.nature.com/gt.rss"/>
       <outline text="Nature Stem Cell" type="rss" xmlUrl="https://www.nature.com/subjects/stem-cells.rss"/>
       <outline type="rss" text="Annual Review of Virology" htmlUrl="https://www.annualreviews.org/content/journals/virology" xmlUrl="https://www.annualreviews.org/rss/content/journals/virology/latestarticles?fmt=rss"/>
@@ -115,8 +114,8 @@
     <outline text="Disease Biology">
       <outline text="Lancet" type="rss" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml"/>
       <outline text="Lancet Online" type="rss" xmlUrl="https://www.thelancet.com/rssfeed/lancet_online.xml"/>
-      <outline text="BMC Translational Medicine" type="rss" xmlUrl="https://translational-medicine.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Medicine" type="rss" xmlUrl="https://bmcmedicine.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Translational Medicine" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12967&amp;channel-name=Journal+of+Translational+Medicine"/>
+      <outline text="BMC Medicine" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12916&amp;channel-name=BMC+Medicine"/>
       <outline text="NEJM Current" type="rss" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss"/>
       <outline text="JAMA Current" type="rss" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml"/>
       <outline text="JAMA Clinical Review" type="rss" xmlUrl="https://jamaclinicalreviews.libsyn.com/rss"/>
@@ -134,9 +133,9 @@
       <outline text="Nature ASO" type="rss" xmlUrl="https://www.nature.com/subjects/antisense-oligonucleotide-therapy.rss"/>
       <outline text="OUP Latest NAR Mol Med" type="rss" xmlUrl="https://academic.oup.com/rss/site_6576/4170.xml"/>
       <outline text="OUP Adv NAR Mol Med" type="rss" xmlUrl="https://academic.oup.com/rss/site_6576/advanceAccess_4170.xml"/>
-      <outline text="BMC Mol Med" type="rss" xmlUrl="https://molmed.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Pharma Tox" type="rss" xmlUrl="https://bmcpharmacoltoxicol.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="EMBO Mol Med" type="rss" xmlUrl="https://www.embopress.org/feed/17574684/most-recent"/>
+      <outline text="BMC Mol Med" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10020&amp;channel-name=Molecular+Medicine"/>
+      <outline text="BMC Pharma Tox" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=40360&amp;channel-name=BMC+Pharmacology+and+Toxicology"/>
+      <outline text="EMBO Mol Med" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=44321&amp;channel-name=EMBO+Molecular+Medicine"/>
       <outline text="eLife Stem Cells" type="rss" xmlUrl="https://elifesciences.org/rss/subject/stem-cells-regenerative-medicine.xml"/>
       <outline text="Trends Pharmacological Sciences" type="rss" xmlUrl="https://www.cell.com/trends/pharmacological-sciences/inpress.rss"/>
       <outline text="Trends Pharmacological Sciences" type="rss" xmlUrl="https://www.cell.com/trends/pharmacological-sciences/current.rss"/>
@@ -178,10 +177,11 @@
       <outline text="OUP Adv Mol Cell Biology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5313/advanceAccess_3179.xml"/>
       <outline text="OUP Latest NAR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5127/3091.xml"/>
       <outline text="OUP Adv NAR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"/>
-      <outline text="BMC Mol and Cell Biology" type="rss" xmlUrl="https://bmcmolcellbiol.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Ecology and Evolution" type="rss" xmlUrl="https://bmcecolevol.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="EMBO Reports" type="rss" xmlUrl="https://www.embopress.org/feed/14693178/most-recent"/>
-      <outline text="EMBO Journal" type="rss" xmlUrl="https://www.embopress.org/feed/14602075/most-recent"/>
+      <outline text="BMC Mol and Cell Biology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12860&amp;channel-name=BMC+Molecular+and+Cell+Biology"/>
+      <outline text="BMC Ecology and Evolution" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12862&amp;channel-name=BMC+Ecology+and+Evolution"/>
+      <outline text="EMBO Reports" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=44319&amp;channel-name=EMBO+Reports"/>
+      <outline text="EMBO Journal" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=44318&amp;channel-name=The+EMBO+Journal"/>
+      <outline text="Molecular Systems Biology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=44320&amp;channel-name=Molecular+Systems+Biology"/>
       <outline text="eLife Chromosome and Gene Expression" type="rss" xmlUrl="https://elifesciences.org/rss/subject/chromosomes-gene-expression.xml"/>
       <outline text="eLife Biochem" type="rss" xmlUrl="https://elifesciences.org/rss/subject/biochemistry-chemical-biology.xml"/>
       <outline text="eLife Cell Bio" type="rss" xmlUrl="https://elifesciences.org/rss/subject/cell-biology.xml"/>
@@ -206,8 +206,8 @@
       <outline text="OUP Adv China NSR" type="rss" xmlUrl="https://academic.oup.com/rss/site_5332/advanceAccess_3198.xml"/>
       <outline text="OUP Latest Glycobiology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5163/3026.xml"/>
       <outline text="OUP Adv Glycobiology" type="rss" xmlUrl="https://academic.oup.com/rss/site_5163/advanceAccess_3026.xml"/>
-      <outline text="BMC Lipids" type="rss" xmlUrl="https://lipidworld.biomedcentral.com/articles/most-recent/rss.xml"/>
-      <outline text="BMC Biology" type="rss" xmlUrl="https://bmcbiol.biomedcentral.com/articles/most-recent/rss.xml"/>
+      <outline text="BMC Lipids" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12944&amp;channel-name=Lipids+in+Health+and+Disease"/>
+      <outline text="BMC Biology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12915&amp;channel-name=BMC+Biology"/>
       <outline text="Cell Reports" type="rss" xmlUrl="https://www.cell.com/cell-reports/inpress.rss"/>
       <outline text="Cell Reports" type="rss" xmlUrl="https://www.cell.com/cell-reports/current.rss"/>
       <outline text="PLOS Biology" type="rss" xmlUrl="https://journals.plos.org/plosbiology/feed/atom"/> 
@@ -218,7 +218,26 @@
       <outline text="Nature News" type="rss" xmlUrl="https://www.nature.com/nature.rss"/>
       <outline text="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed"/>
     </outline>
-    <outline text="Substack Blogs and People">  
+    <outline text="Oncology">
+      <outline text="Nature Cancer Subject" type="rss" xmlUrl="https://www.nature.com/subjects/cancer.rss"/>
+      <outline text="Nature Reviews Cancer" type="rss" xmlUrl="https://www.nature.com/nrc.rss"/>
+      <outline text="Nature Cancer" type="rss" xmlUrl="https://www.nature.com/natcancer.rss"/>
+      <outline text="Nature Reviews Clinical Oncology" type="rss" xmlUrl="https://www.nature.com/nrclinonc.rss"/>
+      <outline text="npj Precision Oncology" type="rss" xmlUrl="https://www.nature.com/npjprecisiononcology.rss"/>
+      <outline text="Cancer Cell" type="rss" xmlUrl="https://www.cell.com/cancer-cell/inpress.rss"/>
+      <outline text="Cancer Cell" type="rss" xmlUrl="https://www.cell.com/cancer-cell/current.rss"/>
+      <outline text="Trends in Cancer" type="rss" xmlUrl="https://www.cell.com/trends/cancer/inpress.rss"/>
+      <outline text="Trends in Cancer" type="rss" xmlUrl="https://www.cell.com/trends/cancer/current.rss"/>
+      <outline text="bioRxiv Cancer Biology" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology"/>
+      <outline text="Lancet Oncology" type="rss" xmlUrl="https://www.thelancet.com/rssfeed/lanonc_current.xml"/>
+      <outline text="JCO" type="rss" xmlUrl="https://ascopubs.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jco"/>
+      <outline text="JCO Precision Oncology" type="rss" xmlUrl="https://ascopubs.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=po"/>
+      <outline text="Journal for ImmunoTherapy of Cancer" type="rss" xmlUrl="https://jitc.bmj.com/rss/current.xml"/>
+      <outline text="BMC Cancer" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12885&amp;channel-name=BMC+Cancer"/>
+      <outline text="BMC Molecular Cancer" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12943&amp;channel-name=Molecular+Cancer"/>
+      <outline text="BMC Journal of Hematology and Oncology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13045&amp;channel-name=Journal+of+Hematology+and+Oncology"/>
+    </outline>
+    <outline text="Substack Blogs and People">
       <outline text="Kinn AI Bio" type="rss" xmlUrl="https://newsletter.kiin.bio/feed"/>
       <outline text="Rachel FastAI Biology" type="rss" xmlUrl="https://rachel.fast.ai/index.xml"/>
       <outline text="TechMeetsBio" type="rss" xmlUrl="https://www.techlifesci.com/feed"/>
