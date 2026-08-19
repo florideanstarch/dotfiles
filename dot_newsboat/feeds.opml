@@ -236,6 +236,7 @@
       <outline text="BMC Cancer" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12885&amp;channel-name=BMC+Cancer"/>
       <outline text="BMC Molecular Cancer" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12943&amp;channel-name=Molecular+Cancer"/>
       <outline text="BMC Journal of Hematology and Oncology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13045&amp;channel-name=Journal+of+Hematology+and+Oncology"/>
+      <outline text="NeoAg" type="rss" xmlUrl="https://neoag.ai/feed.xml"/>
     </outline>
     <outline text="Substack Blogs and People">
       <outline text="Kinn AI Bio" type="rss" xmlUrl="https://newsletter.kiin.bio/feed"/>
